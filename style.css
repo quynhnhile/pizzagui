@@ -1,0 +1,73 @@
+.home-page {
+    font-weight: 500;
+}
+
+.nav-fill {
+    background-color: orange;
+}
+.nav-link {
+    color: black;
+}
+.Carousel-Pizza {
+    margin-top: 130px;
+    color: orange;
+}
+.slogan {
+    color: orange;
+    font-weight: 400;
+}
+.d-block {
+    height: 600px;
+}
+.intro-tittle {
+    color: orange;
+}
+.intro-tittle1 {
+    background-color: orange;
+    width: 300px;
+}
+.border-warning {
+    height: 200px;
+}
+.bg-1 {
+    background-color: lightgoldenrodyellow;
+}
+.bg-2 {
+    background-color: yellow;
+}
+.bg-3 {
+    background-color: lightsalmon;
+}
+.bg-4 {
+    background-color: orange;
+}
+.p-intro {
+    font-weight: 500;
+}
+.p-tittle {
+    color: orange;
+}
+.choose-pizza {
+    position: relative;
+    top: 10px;
+}
+.choose-pizza1 {
+    position: relative;
+    bottom: 13px;
+}
+.card-header {
+    background-color: orange;
+}
+.m-medium {
+    background-color: rgb(252, 197, 95);
+}
+.button-chon {
+    width: 100%;
+    background-color: orange;
+}
+.button-send {
+    background-color: orange
+}
+.div-footer {
+    background-color: orange;
+}
